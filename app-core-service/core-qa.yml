@@ -1,0 +1,2 @@
+mongoWritePOST: http://localhost:8091/api/PostUserdetails
+mongoWriteGET: http://localhost:8091/api/GetUserdetails
