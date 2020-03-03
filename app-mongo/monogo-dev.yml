@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+         uri: localhost:27017
+server:
+  dbName: techm
+  port: : 8091
